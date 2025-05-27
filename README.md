@@ -1,4 +1,4 @@
 # chinii-demo
 the very first Git repository by Chinii
 <br>
-Author - Devi Thakur
+Author - Devi Goswami
